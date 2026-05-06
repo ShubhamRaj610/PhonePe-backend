@@ -1,4 +1,4 @@
-# 📱 PhonePe MERN Clone (Backend Only)
+# 📱 PhonePe MERN Clone (Backend)
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-Framework-black)
