@@ -1,4 +1,4 @@
-# 📱 PhonePe MERN Clone (Backend)
+# 📱 PhonePe MERN (Backend)
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-Framework-black)
@@ -6,7 +6,7 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-blue)
 ![Status](https://img.shields.io/badge/Project-Active-success)
 
-A simple, easy-to-understand Backend for a PhonePe clone project.  
+A simple, easy-to-understand Backend for a PhonePe project.  
 This system is heavily commented and uses beginner-friendly architectures while simulating a real-world FinTech application environment.
 
 ---
